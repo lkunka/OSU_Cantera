@@ -1,0 +1,10 @@
+name: cantera_env
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - ipython
+  - cantera
+  - matplotlib
+  - ipykernel
+prefix: /usr/local/anaconda3/envs/cantera_env
